@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "nombre": "Punto REVE Demo Sevilla Centro",
+    "direccion": "Avenida de la Constitución, Sevilla",
+    "ciudad": "Sevilla",
+    "latitud": 37.3861,
+    "longitud": -5.9922,
+    "conector": "CCS",
+    "potencia": 150,
+    "precio": 0.39,
+    "estado": "Disponible",
+    "gratuito": false
+  },
+  {
+    "id": 2,
+    "nombre": "Punto gratuito Demo Nervión",
+    "direccion": "Zona Nervión, Sevilla",
+    "ciudad": "Sevilla",
+    "latitud": 37.3839,
+    "longitud": -5.9701,
+    "conector": "Tipo 2",
+    "potencia": 22,
+    "precio": 0.0,
+    "estado": "Disponible",
+    "gratuito": true
+  },
+  {
+    "id": 3,
+    "nombre": "Punto REVE Demo Cartuja",
+    "direccion": "Isla de la Cartuja, Sevilla",
+    "ciudad": "Sevilla",
+    "latitud": 37.4036,
+    "longitud": -6.0035,
+    "conector": "CCS",
+    "potencia": 50,
+    "precio": 0.32,
+    "estado": "Ocupado",
+    "gratuito": false
+  },
+  {
+    "id": 4,
+    "nombre": "Punto REVE Demo San Bernardo",
+    "direccion": "Estación de San Bernardo, Sevilla",
+    "ciudad": "Sevilla",
+    "latitud": 37.3785,
+    "longitud": -5.9796,
+    "conector": "CHAdeMO",
+    "potencia": 50,
+    "precio": 0.35,
+    "estado": "Disponible",
+    "gratuito": false
+  },
+  {
+    "id": 5,
+    "nombre": "Punto gratuito Demo Los Remedios",
+    "direccion": "Los Remedios, Sevilla",
+    "ciudad": "Sevilla",
+    "latitud": 37.3748,
+    "longitud": -6.0038,
+    "conector": "Tipo 2",
+    "potencia": 11,
+    "precio": 0.0,
+    "estado": "Disponible",
+    "gratuito": true
+  },
+  {
+    "id": 6,
+    "nombre": "Punto REVE Demo Sevilla Este",
+    "direccion": "Sevilla Este, Sevilla",
+    "ciudad": "Sevilla",
+    "latitud": 37.4032,
+    "longitud": -5.9241,
+    "conector": "CCS",
+    "potencia": 150,
+    "precio": 0.42,
+    "estado": "Disponible",
+    "gratuito": false
+  }
+]
